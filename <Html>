@@ -1,0 +1,12 @@
+<Html>
+<!head tag for meta data (ie not visible on page)-->
+<head>
+	<!-- these are comments-->
+	<!-- these are ignored by the browser -->
+	<!-- command + blackslash for comments -->
+	<title>TITLE</title
+</head>
+<body>
+	<h1>Kat's Webpage</h1>
+	<h2>Slightly smaller</h2>
+	<h3>
